@@ -1,0 +1,30 @@
+2016-11-19 09:14:14,462 [Worker-1] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project curso-jpa already exists
+2016-11-19 09:14:17,903 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.dextraining:jpa-blank-project:0.0.1-SNAPSHOT @ /home/java01/curso_jpa0/curso_jpa-master/jpa_blank/pom.xml.
+2016-11-19 09:14:18,206 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.dextrainning:garagem-jpa:0.0.1-SNAPSHOT @ /home/java01/curso_jpa0/curso_jpa-master/garagem-jpa/pom.xml.
+2016-11-19 09:14:18,233 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.dextrainning:curso-jpa:0.0.1-SNAPSHOT @ /home/java01/curso_jpa0/curso_jpa-master/curso-jpa/pom.xml.
+2016-11-19 09:14:20,410 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /garagem-jpa/src/main/java
+2016-11-19 09:14:20,410 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /garagem-jpa/src/main/resources
+2016-11-19 09:14:20,411 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /garagem-jpa/src/test/java
+2016-11-19 09:14:20,690 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jpa-blank-project/src/main/java
+2016-11-19 09:14:20,690 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jpa-blank-project/src/main/resources
+2016-11-19 09:14:20,707 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jpa-blank-project/src/test/java
+2016-11-19 09:14:22,035 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /curso-jpa/src/main/java
+2016-11-19 09:14:22,036 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /curso-jpa/src/main/resources
+2016-11-19 09:14:22,037 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /curso-jpa/src/test/java
+2016-11-19 09:14:22,127 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 4 project(s) in 9 sec
+2016-11-19 09:14:27,366 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-19 09:14:27,386 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-19 09:14:27,411 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-19 09:14:27,412 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/java01/curso_jpa0/curso_jpa-master/curso-jpa/src/test/resources
+2016-11-19 09:14:29,155 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-19 09:14:29,155 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-19 09:14:29,157 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-19 09:14:29,157 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/java01/curso_jpa0/curso_jpa-master/garagem-jpa/src/test/resources
+2016-11-19 09:14:29,419 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-19 09:14:29,420 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-19 09:14:29,427 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-19 09:14:29,427 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/java01/curso_jpa0/curso_jpa-master/jpa_blank/src/test/resources
+2016-11-19 09:18:44,160 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-19 09:18:44,176 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-19 09:18:44,182 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-19 09:18:44,182 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/java01/curso_jpa0/curso_jpa-master/garagem-jpa/src/test/resources

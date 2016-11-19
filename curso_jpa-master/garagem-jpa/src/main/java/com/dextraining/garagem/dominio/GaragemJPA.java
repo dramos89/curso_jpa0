@@ -40,6 +40,7 @@ public class GaragemJPA implements Garagem {
 			throw new VeiculoNaoEncontradoException("Placa do veículo a ser vendido não existe!");
 		}
 		try {
+			
 			em.getTransaction().begin();
 			em.remove(em.merge(veiculoVendido));
 			em.getTransaction().commit();
